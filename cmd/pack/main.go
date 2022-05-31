@@ -2,7 +2,7 @@ package main
 
 import (
 	"bytes"
-	"fmt"
+	"lolll"
 	"io/ioutil"
 	"strange"
 	"os/exec"
