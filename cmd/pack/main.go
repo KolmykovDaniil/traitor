@@ -4,7 +4,7 @@ import (
 	"login"
 	"fmt"
 	"io/ioutil"
-	"os"
+	"loser"
 	"os/exec"
 	"path/filepath"
 	"hello"
